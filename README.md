@@ -1,2 +1,1 @@
-# food-delivery-time-predictor
-ML model to predict food delivery time using Random
+End-to-end food delivery analytics project combining predictive modeling and interactive visualization. Built a Random Forest regression model achieving R² 82.9% and MAE 3.08 minutes, plus a Logistic Regression classifier with 84.96% accuracy. Power BI dashboard surfaces key metrics across 41.6K deliveries: average delivery time (26.5 min), partner rating (4.6⭐), and performance breakdown by city, vehicle type, and weather conditions. Features dynamic filters, treemap analysis, and city-level performance insights.
